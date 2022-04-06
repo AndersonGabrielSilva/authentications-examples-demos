@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "refresh-tokens-demos", "ref
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefreshToken-examples-JWT", "..\..\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\RefreshToken-examples-JWT.csproj", "{B8F92CAA-DF93-4820-9B2B-DA344928657D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apis-keys", "apis-keys", "{EA9F3772-B2C2-4DF7-BE27-168579D2FF06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
