@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "authentications-examples-demo", "authentications-examples-demo.csproj", "{1DA762DB-016A-4341-9380-34815E0FBA04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "refresh-tokens-demos", "refresh-tokens-demos", "{AFCB02A8-3B6E-4ECB-8BDA-375CA5A1DFDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefreshToken-examples-JWT", "..\..\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\RefreshToken-examples-JWT.csproj", "{B8F92CAA-DF93-4820-9B2B-DA344928657D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA762DB-016A-4341-9380-34815E0FBA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA762DB-016A-4341-9380-34815E0FBA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA762DB-016A-4341-9380-34815E0FBA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA762DB-016A-4341-9380-34815E0FBA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F92CAA-DF93-4820-9B2B-DA344928657D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F92CAA-DF93-4820-9B2B-DA344928657D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F92CAA-DF93-4820-9B2B-DA344928657D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F92CAA-DF93-4820-9B2B-DA344928657D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8F92CAA-DF93-4820-9B2B-DA344928657D} = {AFCB02A8-3B6E-4ECB-8BDA-375CA5A1DFDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6A7C73-3ECD-4E8D-ADC8-ED89C399ACF3}
+	EndGlobalSection
+EndGlobal
