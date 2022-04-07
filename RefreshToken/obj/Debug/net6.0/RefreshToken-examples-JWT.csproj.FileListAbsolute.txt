@@ -1,0 +1,94 @@
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\appsettings.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.exe
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.deps.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.runtimeconfig.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.pdb
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\MiniValidation.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\NetDevPack.Security.Jwt.AspNetCore.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\NetDevPack.Security.Jwt.Core.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.AssemblyReference.cache
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.AssemblyInfoInputs.cache
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.AssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\scopedcss\bundle\RefreshToken-examples-JWT.styles.css
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.CopyComplete
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\refint\RefreshToken-examples-JWT.dll
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.pdb
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.genruntimeconfig.cache
+C:\Users\Anderson Gabriel\Downloads\refresh-token-sample-main\RefreshToken\obj\Debug\net6.0\ref\RefreshToken-examples-JWT.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\appsettings.Development.json
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\appsettings.json
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.exe
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.deps.json
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.runtimeconfig.json
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\RefreshToken-examples-JWT.pdb
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\MiniValidation.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\NetDevPack.Security.Jwt.AspNetCore.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\NetDevPack.Security.Jwt.Core.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\authentications-examples-demo\RefreshToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.AssemblyReference.cache
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.AssemblyInfoInputs.cache
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.AssemblyInfo.cs
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.CoreCompileInputs.cache
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\staticwebassets.build.json
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\staticwebassets.development.json
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\scopedcss\bundle\RefreshToken-examples-JWT.styles.css
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.csproj.CopyComplete
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.dll
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\refint\RefreshToken-examples-JWT.dll
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.pdb
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\RefreshToken-examples-JWT.genruntimeconfig.cache
+C:\dev\authentications-examples-demo\RefreshToken\obj\Debug\net6.0\ref\RefreshToken-examples-JWT.dll
