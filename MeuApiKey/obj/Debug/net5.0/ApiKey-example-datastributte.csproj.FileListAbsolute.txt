@@ -1,0 +1,56 @@
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\appsettings.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.exe
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.deps.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.runtimeconfig.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.runtimeconfig.dev.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.pdb
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.AssemblyReference.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.AssemblyInfoInputs.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.AssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\scopedcss\bundle\ApiKey-example-datastributte.styles.css
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\staticwebassets\ApiKey-example-datastributte.StaticWebAssets.Manifest.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.RazorTargetAssemblyInfo.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.CopyComplete
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\refint\ApiKey-example-datastributte.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.pdb
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.genruntimeconfig.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ref\ApiKey-example-datastributte.dll
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\appsettings.Development.json
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\appsettings.json
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.exe
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.deps.json
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.runtimeconfig.json
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.runtimeconfig.dev.json
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.dll
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\ApiKey-example-datastributte.pdb
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\authentications-examples-demo\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.AssemblyReference.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.AssemblyInfoInputs.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.AssemblyInfo.cs
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.CoreCompileInputs.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\scopedcss\bundle\ApiKey-example-datastributte.styles.css
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\staticwebassets\ApiKey-example-datastributte.StaticWebAssets.Manifest.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.RazorTargetAssemblyInfo.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.csproj.CopyComplete
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.dll
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\refint\ApiKey-example-datastributte.dll
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.pdb
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ApiKey-example-datastributte.genruntimeconfig.cache
+C:\dev\authentications-examples-demo\MeuApiKey\obj\Debug\net5.0\ref\ApiKey-example-datastributte.dll

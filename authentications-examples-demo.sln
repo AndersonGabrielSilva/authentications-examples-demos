@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "refresh-tokens-demos", "ref
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apis-keys", "apis-keys", "{EA9F3772-B2C2-4DF7-BE27-168579D2FF06}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiKey-example-datastributte", "..\..\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\ApiKey-example-datastributte.csproj", "{4E7C569F-B71F-415D-8041-5434C831BBE5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "asymetric-emcription", "asymetric-emcription", "{14D9981C-8471-4CCC-B804-440008D8C82E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api-Asymetric-emcription.JWE-Demo", "Api-Asymetric-emcription.JWE-Demo", "{35AB4A33-E32A-466A-81DD-60C1735A0DAB}"
@@ -19,16 +17,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerApi-AsymetricEncrypti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefreshToken-examples-JWT", "RefreshToken\RefreshToken-examples-JWT.csproj", "{4B9F043D-5B63-4099-9917-04DDE8DDA64B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiKey-example-datastributte", "MeuApiKey\ApiKey-example-datastributte.csproj", "{6FEE86A6-DBD4-494E-B565-E24F71ADA297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E7C569F-B71F-415D-8041-5434C831BBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E7C569F-B71F-415D-8041-5434C831BBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E7C569F-B71F-415D-8041-5434C831BBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E7C569F-B71F-415D-8041-5434C831BBE5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D61EAA85-1EF1-4813-8C72-E51670E6419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D61EAA85-1EF1-4813-8C72-E51670E6419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61EAA85-1EF1-4813-8C72-E51670E6419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,16 +37,20 @@ Global
 		{4B9F043D-5B63-4099-9917-04DDE8DDA64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9F043D-5B63-4099-9917-04DDE8DDA64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B9F043D-5B63-4099-9917-04DDE8DDA64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEE86A6-DBD4-494E-B565-E24F71ADA297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEE86A6-DBD4-494E-B565-E24F71ADA297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEE86A6-DBD4-494E-B565-E24F71ADA297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEE86A6-DBD4-494E-B565-E24F71ADA297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4E7C569F-B71F-415D-8041-5434C831BBE5} = {EA9F3772-B2C2-4DF7-BE27-168579D2FF06}
 		{35AB4A33-E32A-466A-81DD-60C1735A0DAB} = {14D9981C-8471-4CCC-B804-440008D8C82E}
 		{D61EAA85-1EF1-4813-8C72-E51670E6419B} = {35AB4A33-E32A-466A-81DD-60C1735A0DAB}
 		{D4405884-F0F5-42A3-A767-67102F651B86} = {35AB4A33-E32A-466A-81DD-60C1735A0DAB}
 		{4B9F043D-5B63-4099-9917-04DDE8DDA64B} = {AFCB02A8-3B6E-4ECB-8BDA-375CA5A1DFDF}
+		{6FEE86A6-DBD4-494E-B565-E24F71ADA297} = {EA9F3772-B2C2-4DF7-BE27-168579D2FF06}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC6A7C73-3ECD-4E8D-ADC8-ED89C399ACF3}

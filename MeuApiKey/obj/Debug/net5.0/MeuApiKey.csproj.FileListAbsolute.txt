@@ -1,0 +1,58 @@
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\appsettings.json
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.exe
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.deps.json
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.runtimeconfig.json
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.runtimeconfig.dev.json
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\ref\MeuApiKey.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\MeuApiKey.pdb
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csprojAssemblyReference.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.AssemblyInfoInputs.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.AssemblyInfo.cs
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\staticwebassets\MeuApiKey.StaticWebAssets.Manifest.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\staticwebassets\MeuApiKey.StaticWebAssets.xml
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\scopedcss\bundle\MeuApiKey.styles.css
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.RazorTargetAssemblyInfo.cache
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csproj.CopyComplete
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\ref\MeuApiKey.dll
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.pdb
+C:\Users\Anderson Gabriel\source\repos\Asp.Net - Autentificacao com ApiKey\MeuApiKey\obj\Debug\net5.0\MeuApiKey.genruntimeconfig.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\appsettings.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.StaticWebAssets.xml
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.exe
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.deps.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.runtimeconfig.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.runtimeconfig.dev.json
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\MeuApiKey.pdb
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csproj.AssemblyReference.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.AssemblyInfoInputs.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.AssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\scopedcss\bundle\MeuApiKey.styles.css
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\staticwebassets\MeuApiKey.StaticWebAssets.Manifest.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.RazorTargetAssemblyInfo.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.csproj.CopyComplete
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\refint\MeuApiKey.dll
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.pdb
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\MeuApiKey.genruntimeconfig.cache
+C:\Users\Anderson Gabriel\Downloads\Asp.Net_Autentificacao_com_ApiKey-main\MeuApiKey\obj\Debug\net5.0\ref\MeuApiKey.dll
