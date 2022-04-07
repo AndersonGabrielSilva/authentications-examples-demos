@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\authentications-examples-demo\\asymetric-emcription\\AsymetricEncryptionConsole\\AsymetricEncryptionConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\authentications-examples-demo\\asymetric-emcription\\AsymetricEncryptionConsole\\AsymetricEncryptionConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\authentications-examples-demo\\asymetric-emcription\\AsymetricEncryptionConsole\\AsymetricEncryptionConsole.csproj",
+        "projectName": "AsymetricEncryptionConsole",
+        "projectPath": "C:\\dev\\authentications-examples-demo\\asymetric-emcription\\AsymetricEncryptionConsole\\AsymetricEncryptionConsole.csproj",
+        "packagesPath": "C:\\Users\\Anderson Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\authentications-examples-demo\\asymetric-emcription\\AsymetricEncryptionConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anderson Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NetDevPack.Security.Jwt.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
